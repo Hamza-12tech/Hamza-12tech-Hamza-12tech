@@ -59,14 +59,6 @@
   </tbody>
 </table>
 
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="#"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Optimizing Draw Calls in Unity 2023</b></a><br/><i>How to keep your framerates high using batching and occlusion culling.</i></li>
-  <li><a href="#"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Introduction to Entity Component System (DOTS)</b></a><br/><i>Writing high-performance multithreaded code in C#.</i></li>
-    <li><a href="#"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Writing Custom Shaders with HLSL</b></a><br/><i>Moving beyond Shader Graph for total control over your visuals.</i></li>
-  <li><a href="#"><b>SOLID Principles in Game Development</b></a><br/><i>How to write clean C# architecture that doesn't turn into spaghetti code.</i></li>
-  <li><a href="#"><b>Physics Based Character Controllers</b></a><br/><i>Moving away from rigidbodies for tighter gameplay feel.</i></li>
-</ul>
 
 
 <h3>Take a look at my latest project: Subway Runner! 🏃</h3>
