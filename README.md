@@ -72,6 +72,9 @@
     <img width="200" src="./MainMenu.jpg" alt="Main Menu of the Subway Runner game" /> 
   <img width="200" src="./GamePlayRun.jpg" alt="Gameplay screenshot showing running" /> 
   <img width="200" src="./Store.jpg" alt="In-game store for character selection" />
+  <img width="200" src="./Jump.jpg" alt="In-game store for character selection" />
+  <img width="200" src="./GamePlayRun.jpg" alt="In-game store for character selection" />
+    <img width="200" src="./GamePlayJump.jpg" alt="In-game store for character selection" />
 </p>
 <br>
 
