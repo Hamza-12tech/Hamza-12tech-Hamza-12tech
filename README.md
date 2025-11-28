@@ -73,12 +73,13 @@
   <img width="200" src="https://placehold.co/200x200/202020/FFF?text=Game+Screenshot+3" />
 </p>
 
-<h3>Take a look at my project: Subway Runner!</h3>
-<p>
-  <img width="200" src="./assets/GamePlayRun.jpg" alt="Gameplay screenshot of Subway Runner" /> 
-  <img width="200" src="./assets/MainMenu.jpg" alt="Main menu of Subway Runner" /> 
-  <img width="200" src="./assets/Store.jpg" alt="In-game store for character selection" />
+<h3>Take a look at my latest project: Subway Runner! 🏃</h3>
+<p align="center">
+    <img width="200" src="./MainMenu.jpg" alt="Main Menu of the Subway Runner game" /> 
+  <img width="200" src="./GamePlayRun.jpg" alt="Gameplay screenshot showing running" /> 
+  <img width="200" src="./Store.jpg" alt="In-game store for character selection" />
 </p>
+<br>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="#">Create your own here!</a></p>
