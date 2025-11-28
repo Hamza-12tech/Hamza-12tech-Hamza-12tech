@@ -66,12 +66,6 @@
   <li><a href="#"><b>Physics Based Character Controllers</b></a><br/><i>Moving away from rigidbodies for tighter gameplay feel.</i></li>
 </ul>
 
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> [Your City]!</h3>
-<p>
-  <img width="200" src="https://placehold.co/200x200/202020/FFF?text=Game+Screenshot+1" /> 
-  <img width="200" src="https://placehold.co/200x200/202020/FFF?text=Game+Screenshot+2" /> 
-  <img width="200" src="https://placehold.co/200x200/202020/FFF?text=Game+Screenshot+3" />
-</p>
 
 <h3>Take a look at my latest project: Subway Runner! 🏃</h3>
 <p align="center">
