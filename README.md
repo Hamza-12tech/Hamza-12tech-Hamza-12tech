@@ -73,12 +73,11 @@
   <img width="200" src="https://placehold.co/200x200/202020/FFF?text=Game+Screenshot+3" />
 </p>
 
-<h3>Where to find me</h3>
+<h3>Take a look at my project: Subway Runner!</h3>
 <p>
-  <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="#" target="_blank"><img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white" /></a>
+  <img width="200" src="./assets/GamePlayRun.jpg" alt="Gameplay screenshot of Subway Runner" /> 
+  <img width="200" src="./assets/MainMenu.jpg" alt="Main menu of Subway Runner" /> 
+  <img width="200" src="./assets/Store.jpg" alt="In-game store for character selection" />
 </p>
 
 ------------
