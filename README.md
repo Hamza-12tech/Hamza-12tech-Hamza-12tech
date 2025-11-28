@@ -1,39 +1,40 @@
-👋 Hi, I’m Hamza
-Unity 3D Developer | C# | .NET | AI Tools
+<h1 align="center">Hamza — Unity 3D Game Developer</h1>
+<p align="center">4+ Years Experience · C# · .NET · Gameplay Systems · Mobile Optimization</p>
 
-I build interactive, high-performance games and applications using Unity, C#, and modern AI-powered workflows.
-My focus is on clean architecture, optimization, and creating smooth, responsive player experiences.
+---
 
-🔧 Skills & Technologies
+## 🧰 Tech & Tools
+<p>
+  <img src="https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech-Gameplay%20Systems-blue" />
+  <img src="https://img.shields.io/badge/Tools-Editor%20Scripting-orange" />
+</p>
 
-Unity 3D (gameplay systems, physics, animation, UI, optimization)
+---
 
-C# / .NET (tools, utilities, backend logic)
+## 🏗️ About Me
+Unity 3D developer specializing in gameplay programming and high-performance mobile experiences.  
+I build scalable tools, smooth controllers, modular architectures, and polished game loops.
 
-Game Systems (endless runners, AI opponents, procedural elements)
+---
 
-AI Tools (content generation, automation, workflow enhancements)
+## 🚀 Current Work
+- Subway Surfers–style 3D endless runner  
+- Custom Unity tools for faster development  
+- AI-driven workflows and content prototyping  
 
-Mobile Development (performance tuning, build optimization)
+---
 
-🚀 Current Projects
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" height="150"/>
+</p>
 
-Subway Surfers–style endless runner built in Unity
+---
 
-AI-powered tools for speeding up development workflow
+## 📫 Contact  
+Open to collaboration, learning, and building new systems.
 
-AI-generated content using image/video models
-
-🧩 What I Like Building
-
-Scalable, modular gameplay systems
-
-Tools that speed up development for myself and others
-
-Fast prototypes that turn into polished experiences
-
-Clean code and maintainable architectures
-
-📫 Connect With Me
-
-Always open to collaboration, learning, and building new ideas.
